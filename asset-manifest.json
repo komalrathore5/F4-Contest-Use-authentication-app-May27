@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/F4-Contest-Use-authentication-app-May27/static/css/main.5fe1ea35.css",
+    "main.js": "/F4-Contest-Use-authentication-app-May27/static/js/main.06e14a22.js",
+    "index.html": "/F4-Contest-Use-authentication-app-May27/index.html",
+    "main.5fe1ea35.css.map": "/F4-Contest-Use-authentication-app-May27/static/css/main.5fe1ea35.css.map",
+    "main.06e14a22.js.map": "/F4-Contest-Use-authentication-app-May27/static/js/main.06e14a22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fe1ea35.css",
+    "static/js/main.06e14a22.js"
+  ]
+}
